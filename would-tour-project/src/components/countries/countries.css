@@ -1,0 +1,27 @@
+#countries_container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.visited-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  /* display: flex; */
+}
+.visited-card {
+  border: 2px solid cadetblue;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 10px;
+  width: fit-content;
+  background-color: bisque;
+}
+.visited-flag-img {
+  /* height: 50px; */
+  width: calc(100% - 300px);
+  height: 100%;
+  object-fit: cover;
+  /* transform: translate(50%) scale(1.5); */
+
+  /* height: 100%; */
+}

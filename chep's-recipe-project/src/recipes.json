@@ -1,0 +1,92 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_img": "https://i.ibb.co.com/hXkf3R2/recipe1.jpg",
+    "short_description": "A quick and healthy chicken stir-fry with vegetables.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushroom",
+      "2 cloves garlic",
+      "1 tbsp olive oil"
+    ],
+    "preparing_time": "30 minutes",
+    "calories": 450
+  },
+  {
+    "recipe_id": 2,
+    "recipe_img": "https://i.ibb.co.com/L0jcYkr/recipe3.jpg",
+    "short_description": "Classic spaghetti Bolognese with rich tomato sauce.",
+    "ingredients": [
+      "400 g minced beef",
+      "200 g spaghetti",
+      "1 can tomatoes",
+      "2 cloves garlic",
+      "1 onion",
+      "50 ml olive oil"
+    ],
+    "preparing_time": "45 minutes",
+    "calories": 600
+  },
+  {
+    "recipe_id": 3,
+    "recipe_img": "https://i.ibb.co.com/wpMbkLS/recipe4.jpg",
+    "short_description": "Creamy paneer curry with a mix of Indian spices.",
+    "ingredients": [
+      "400 g paneer",
+      "2 tomatoes",
+      "2 onions",
+      "150 ml cream",
+      "1 tbsp garam masala",
+      "1 tsp turmeric"
+    ],
+    "preparing_time": "35 minutes",
+    "calories": 520
+  },
+  {
+    "recipe_id": 4,
+    "recipe_img": "https://i.ibb.co.com/Vgnc0W7/recipe5.jpg",
+    "short_description": "A fresh vegan salad with avocado, spinach, and quinoa.",
+    "ingredients": [
+      "1 avocado",
+      "100 g spinach",
+      "150 g quinoa",
+      "1 cucumber",
+      "10 cherry tomatoes",
+      "2 tbsp olive oil"
+    ],
+    "preparing_time": "20 minutes",
+    "calories": 300
+  },
+  {
+    "recipe_id": 5,
+    "recipe_img": "https://i.ibb.co.com/GtnnKPp/recipe6.jpg",
+    "short_description": "Delicious banana pancakes topped with maple syrup.",
+    "ingredients": [
+      "2 bananas",
+      "200 g flour",
+      "300 ml milk",
+      "1 egg",
+      "1 tbsp baking powder",
+      "2 tbsp maple syrup"
+    ],
+    "preparing_time": "25 minutes",
+    "calories": 350
+  },
+  {
+    "recipe_id": 6,
+    "recipe_img": "https://i.ibb.co.com/wpMbkLS/recipe4.jpg",
+    "short_description": "Grilled salmon with a tangy lemon butter sauce.",
+    "ingredients": [
+      "2 salmon fillets",
+      "50 g butter",
+      "1 lemon",
+      "1 clove garlic",
+      "1 tsp parsley",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "30 minutes",
+    "calories": 400
+  }
+]
